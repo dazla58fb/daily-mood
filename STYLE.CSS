@@ -1,0 +1,14 @@
+/* Styl tła całej strony */
+body {
+  background-color: #f0f8ff;
+}
+
+/* Styl nagłówka */
+h2 {
+  color: #333;
+}
+
+/* Zabronienie zmiany rozmiaru textarea */
+#note {
+  resize: none;
+}
